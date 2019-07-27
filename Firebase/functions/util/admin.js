@@ -1,8 +1,7 @@
-const admin = require("firebase-admin");
+const admin = require('firebase-admin');
+
 admin.initializeApp();
 
-const db = admin.firestore(); //reemplaza las partes de codigo donde se llama a la base de datos
+const db = admin.firestore();
 
 module.exports = { admin, db };
-
-
