@@ -5,6 +5,5 @@ module.exports = {
   databaseURL: "https://memegram201.firebaseio.com",
   projectId: "memegram201",
   storageBucket: "memegram201.appspot.com",
-  messagingSenderId: "1094990056611",
-  appId: "1:1094990056611:web:ee12012239055dcf"
+  messagingSenderId: "1094990056611"
 };
